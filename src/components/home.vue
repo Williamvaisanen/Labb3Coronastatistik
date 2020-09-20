@@ -3,7 +3,7 @@
     <h2>Antal smittade:</h2>
     <h3 id="confirmedALL">****</h3>
 
-    <h2>Antal döda:</h2>
+    <h2>Antal Döda:</h2>
     <h3 id="deathsALL">****</h3>
     <div class="Field">
       <input type="checkbox" v-model="randomBoolean" />
